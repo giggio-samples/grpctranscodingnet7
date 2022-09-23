@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32916.344
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcTranscodingNet7", "GrpcTranscodingNet7.csproj", "{310DB1AB-1ECD-4944-8FA4-5404672AB094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{310DB1AB-1ECD-4944-8FA4-5404672AB094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310DB1AB-1ECD-4944-8FA4-5404672AB094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310DB1AB-1ECD-4944-8FA4-5404672AB094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310DB1AB-1ECD-4944-8FA4-5404672AB094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95EA3DEF-C215-4302-AC5F-00505BD2EB2A}
+	EndGlobalSection
+EndGlobal
